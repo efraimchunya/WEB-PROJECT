@@ -1,0 +1,21 @@
+.about_container h2{
+    padding-bottom: 2rem;
+    text-align: center;
+    padding-top: 1rem;
+    background: var(--color-primary);
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+
+}
+
+.about_me{
+    place-items: center;
+    gap: 1.5 rem;
+    display: grid;
+    background:var(--color-bg-variant);
+
+}
+.about_me>div:hover{
+    background: transparent;
+    background: linear-gradient(180deg, transparent, var(--color-primary));
+}

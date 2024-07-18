@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http://C:\\Users\\Admin\\Desktop\\my-portfolio-master\\my-portfolio-master",
+            "request": "launch",
+            "url": "http://C:\\Users\\Admin\\Desktop\\my-portfolio-master\\my-portfolio-master"
+        }
+    ]
+}
